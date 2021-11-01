@@ -52,6 +52,8 @@
 
 ## 物品叠加
 
+#### 叠加数量
+
 ![image-20211101144358837](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211101144358837.png)
 
 
